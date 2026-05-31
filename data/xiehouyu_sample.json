@@ -1,0 +1,366 @@
+[
+  {
+    "id": "xiehouyu_001",
+    "riddle": "芝麻开花",
+    "answer": "节节高",
+    "explanation": "芝麻的花是沿着茎一节一节往上开的，比喻生活越来越好。",
+    "category": "植物"
+  },
+  {
+    "id": "xiehouyu_002",
+    "riddle": "竹篮打水",
+    "answer": "一场空",
+    "explanation": "竹篮有孔，盛不住水。比喻白费力气，没有结果。",
+    "category": "日常"
+  },
+  {
+    "id": "xiehouyu_003",
+    "riddle": "哑巴吃黄连",
+    "answer": "有苦说不出",
+    "explanation": "黄连极苦，哑巴吃了却说不出。比喻心里有苦衷却无法表达。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_004",
+    "riddle": "外甥打灯笼",
+    "answer": "照旧（舅）",
+    "explanation": "\"照舅\"谐音\"照旧\"。比喻一切照旧，没有变化。",
+    "category": "谐音"
+  },
+  {
+    "id": "xiehouyu_005",
+    "riddle": "小葱拌豆腐",
+    "answer": "一清（青）二白",
+    "explanation": "小葱是青色，豆腐是白色。比喻做事清楚明白。",
+    "category": "食物"
+  },
+  {
+    "id": "xiehouyu_006",
+    "riddle": "十五个吊桶打水",
+    "answer": "七上八下",
+    "explanation": "比喻心情忐忑不安。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_007",
+    "riddle": "泥菩萨过江",
+    "answer": "自身难保",
+    "explanation": "泥做的菩萨遇水会融化。比喻连自己都保不住，更帮不了别人。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_008",
+    "riddle": "黄鼠狼给鸡拜年",
+    "answer": "没安好心",
+    "explanation": "黄鼠狼以鸡为食，表面拜年实则想吃鸡。比喻假意讨好，心存歹念。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_009",
+    "riddle": "骑驴看唱本",
+    "answer": "走着瞧",
+    "explanation": "一边走一边看。比喻事情还没有定论，等着看结果。",
+    "category": "日常"
+  },
+  {
+    "id": "xiehouyu_010",
+    "riddle": "姜太公钓鱼",
+    "answer": "愿者上钩",
+    "explanation": "姜太公用直钩钓鱼。比喻心甘情愿上圈套。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_011",
+    "riddle": "猫哭老鼠",
+    "answer": "假慈悲",
+    "explanation": "猫本是老鼠的天敌，哭老鼠是假心假意。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_012",
+    "riddle": "对牛弹琴",
+    "answer": "白费劲",
+    "explanation": "给牛弹琴，牛听不懂。比喻说话不看对象，白费力气。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_013",
+    "riddle": "水中捞月",
+    "answer": "一场空",
+    "explanation": "月亮在水中的倒影是捞不起来的。比喻空欢喜一场。",
+    "category": "自然"
+  },
+  {
+    "id": "xiehouyu_014",
+    "riddle": "八仙过海",
+    "answer": "各显神通",
+    "explanation": "八仙各用自己的法宝过海。比喻各人施展自己的本领。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_015",
+    "riddle": "韩信点兵",
+    "answer": "多多益善",
+    "explanation": "韩信认为士兵越多越好指挥。比喻越多越好。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_016",
+    "riddle": "打破砂锅",
+    "answer": "问（纹）到底",
+    "explanation": "\"纹到底\"谐音\"问到底\"。比喻追根究底。",
+    "category": "谐音"
+  },
+  {
+    "id": "xiehouyu_017",
+    "riddle": "丈二和尚",
+    "answer": "摸不着头脑",
+    "explanation": "丈二高的和尚，摸不到他的头。比喻弄不清情况。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_018",
+    "riddle": "肉包子打狗",
+    "answer": "有去无回",
+    "explanation": "用肉包子去打狗，肯定被狗吃掉。比喻东西一去不复返。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_019",
+    "riddle": "猪八戒照镜子",
+    "answer": "里外不是人",
+    "explanation": "猪八戒相貌丑陋，照镜子里外都难看。比喻两边都不讨好。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_020",
+    "riddle": "六月天穿棉袄",
+    "answer": "不是时候",
+    "explanation": "六月是夏天，穿棉袄不合时宜。比喻时机不对。",
+    "category": "日常"
+  },
+  {
+    "id": "xiehouyu_021",
+    "riddle": "擀面杖吹火",
+    "answer": "一窍不通",
+    "explanation": "擀面杖实心无孔，无法吹火。比喻什么都不懂。",
+    "category": "日常"
+  },
+  {
+    "id": "xiehouyu_022",
+    "riddle": "老鼠过街",
+    "answer": "人人喊打",
+    "explanation": "老鼠过街时人人都会喊打。比喻非常招人讨厌。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_023",
+    "riddle": "兔子尾巴",
+    "answer": "长不了",
+    "explanation": "兔子的尾巴很短。比喻维持不了多久。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_024",
+    "riddle": "井底青蛙",
+    "answer": "没见过大世面",
+    "explanation": "在井底的青蛙只能看到井口大的天。比喻见识有限。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_025",
+    "riddle": "塞翁失马",
+    "answer": "焉知非福",
+    "explanation": "坏事在一定条件下可能变成好事。",
+    "category": "哲理"
+  },
+  {
+    "id": "xiehouyu_026",
+    "riddle": "大海捞针",
+    "answer": "无处寻",
+    "explanation": "在大海里找一根针。比喻极难找到。",
+    "category": "自然"
+  },
+  {
+    "id": "xiehouyu_027",
+    "riddle": "老虎屁股",
+    "answer": "摸不得",
+    "explanation": "老虎凶猛，触碰它的屁股很危险。比喻人脾气大碰不得。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_028",
+    "riddle": "铁公鸡",
+    "answer": "一毛不拔",
+    "explanation": "铁做的公鸡拔不下毛。比喻非常吝啬。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_029",
+    "riddle": "热锅上的蚂蚁",
+    "answer": "团团转",
+    "explanation": "蚂蚁在热锅上急得乱转。比喻焦急不安。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_030",
+    "riddle": "张飞穿针",
+    "answer": "大眼瞪小眼",
+    "explanation": "张飞是粗人，穿针引线非常困难。比喻互相看着没办法。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_031",
+    "riddle": "周瑜打黄盖",
+    "answer": "一个愿打，一个愿挨",
+    "explanation": "周瑜和黄盖演苦肉计，打人和挨打都是自愿的。比喻双方心甘情愿。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_032",
+    "riddle": "刘备摔孩子",
+    "answer": "收买人心",
+    "explanation": "刘备假意摔阿斗以收买赵云忠心。比喻用手段笼络人心。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_033",
+    "riddle": "关公面前耍大刀",
+    "answer": "不自量力",
+    "explanation": "关公是武圣，在他面前舞刀是自不量力。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_034",
+    "riddle": "孔夫子搬家",
+    "answer": "尽是书（输）",
+    "explanation": "\"书\"谐音\"输\"。孔子书多，搬家时全是书。比喻总是输。",
+    "category": "谐音"
+  },
+  {
+    "id": "xiehouyu_035",
+    "riddle": "王婆卖瓜",
+    "answer": "自卖自夸",
+    "explanation": "王婆卖瓜时自己夸自己的瓜好。比喻自我吹嘘。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_036",
+    "riddle": "掩耳盗铃",
+    "answer": "自欺欺人",
+    "explanation": "捂住自己的耳朵去偷铃铛。比喻自己欺骗自己。",
+    "category": "哲理"
+  },
+  {
+    "id": "xiehouyu_037",
+    "riddle": "画蛇添足",
+    "answer": "多此一举",
+    "explanation": "蛇本来没有脚，画上脚是多余的。",
+    "category": "哲理"
+  },
+  {
+    "id": "xiehouyu_038",
+    "riddle": "此地无银三百两",
+    "answer": "不打自招",
+    "explanation": "本想隐藏却暴露了自己。比喻欲盖弥彰。",
+    "category": "哲理"
+  },
+  {
+    "id": "xiehouyu_039",
+    "riddle": "三个臭皮匠",
+    "answer": "顶个诸葛亮",
+    "explanation": "三个普通人集思广益，能抵得上诸葛亮的智慧。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_040",
+    "riddle": "墙上芦苇",
+    "answer": "头重脚轻根底浅",
+    "explanation": "芦苇长在墙上根基不牢。比喻没有真才实学。",
+    "category": "植物"
+  },
+  {
+    "id": "xiehouyu_041",
+    "riddle": "山间竹笋",
+    "answer": "嘴尖皮厚腹中空",
+    "explanation": "竹笋尖而皮厚，里面是空的。比喻没有真本事。",
+    "category": "植物"
+  },
+  {
+    "id": "xiehouyu_042",
+    "riddle": "千里送鹅毛",
+    "answer": "礼轻情意重",
+    "explanation": "从很远的地方送来一根鹅毛。比喻礼物虽轻情意深厚。",
+    "category": "日常"
+  },
+  {
+    "id": "xiehouyu_043",
+    "riddle": "秋后的蚂蚱",
+    "answer": "蹦跶不了几天",
+    "explanation": "秋天过后蚂蚱就要死了。比喻嚣张不了多久。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_044",
+    "riddle": "正月十五贴门神",
+    "answer": "晚了半个月",
+    "explanation": "门神应在除夕贴，正月十五贴太晚了。",
+    "category": "日常"
+  },
+  {
+    "id": "xiehouyu_045",
+    "riddle": "瓮中捉鳖",
+    "answer": "十拿九稳",
+    "explanation": "在坛子里捉甲鱼。比喻非常有把握。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_046",
+    "riddle": "哑巴吃饺子",
+    "answer": "心里有数",
+    "explanation": "哑巴虽然说不出来，但吃了多少自己知道。比喻心中有数。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_047",
+    "riddle": "开水烫青蛙",
+    "answer": "蹦不了几下",
+    "explanation": "青蛙被开水烫了也挣扎不了太久。比喻很快就不行了。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_048",
+    "riddle": "偷鸡不成",
+    "answer": "蚀把米",
+    "explanation": "想偷鸡却损失了用来诱鸡的米。比喻本想占便宜反而吃亏。",
+    "category": "动物"
+  },
+  {
+    "id": "xiehouyu_049",
+    "riddle": "瞎子点灯",
+    "answer": "白费蜡",
+    "explanation": "瞎子看不见，点灯是浪费。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_050",
+    "riddle": "秀才遇到兵",
+    "answer": "有理说不清",
+    "explanation": "秀才讲道理遇到不讲理的兵。比喻跟不讲理的人无法沟通。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_051",
+    "riddle": "懒婆娘的裹脚",
+    "answer": "又长又臭",
+    "explanation": "比喻文章或讲话篇幅长而内容空洞。",
+    "category": "人物"
+  },
+  {
+    "id": "xiehouyu_052",
+    "riddle": "十字路口",
+    "answer": "迷方向",
+    "explanation": "在交叉路口不知该往哪走。比喻面临抉择时的困惑。",
+    "category": "地点"
+  }
+]
